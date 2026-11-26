@@ -1,6 +1,6 @@
 cask "tabdesk-host" do
-  version "0.1.127"
-  sha256 "9bdd187c1c14783aca774d0396b8cc79bd346affeecfc2445b4e10816e41c94d"
+  version "0.1.128"
+  sha256 "8a0d108d38760208b3b48ee0dc25735accb06eaf0fc841ee537463438cdeaf07"
 
   url "https://tabdesk.worksentials.com/downloads/TabDeskHost-#{version}.pkg"
   name "TabDesk Host"
